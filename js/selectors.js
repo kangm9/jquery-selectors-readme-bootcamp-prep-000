@@ -7,5 +7,5 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return $("img[alt='the beatles making faces']"))
+  return $("idimg[alt='the beatles making faces']"id="baby-ninja" src="https://s3.amazonaws.com/after-school-assets/baby-ninja.gif" )
 }
