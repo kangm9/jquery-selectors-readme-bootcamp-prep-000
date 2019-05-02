@@ -7,5 +7,5 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return $('#')
+  return $("img[alt='the beatles making faces']"))
 }
